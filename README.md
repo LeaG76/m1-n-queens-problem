@@ -5,7 +5,7 @@
 
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/-Java-E61F24?style=flat&logo=java&logoColor=white" />
-    <img alt="GNUPlot" src="https://img.shields.io/badge/-GNUPlot-F0A9F0?style=flat&logo=gnuplot&logoColor=white" />
+    <img alt="GNUPlot" src="https://img.shields.io/badge/-GNUPlot-017A81?style=flat&logo=gnuplot&logoColor=white" />
 </p>
 
 <table>

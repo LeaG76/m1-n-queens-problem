@@ -15,18 +15,6 @@ public class Reine {
         placerReine(0, n);
     }
 
-    private static void heuristique1(int n) {
-
-    }
-
-    private static void heuristique2(int n) {
-        
-    }
-
-    private static void heuristique3(int n) {
-        
-    }
-
     private static boolean estEmprise(int index) {
         for (int i = 0; i < index; i++) {
             // Ligne

@@ -29,7 +29,13 @@
 
 ## About
 
-What is the N queens problem? It is a question of placing n queens on a chessboard (of size n x n, n>2) without them threatening each other. Two queens must not be on the same line, on the same column or on the same diagonal.
+What is the **N queens problem**? It is a question of placing on a chessboard of size $n \n$ (n>=2), n queens without them threatening each other. Two queens must not be on the same line, on the same column or on the same diagonal.
+
+This problem was posed in 1848 by a German chess player, Max Bezzel, for n=8.
+
+$$
+\sqrt{3}
+$$
 
 <div align="center">
     <img title="N Queens Problem with n=2" src="pictures/NQueen2.png" alt="N Queens Problem with n=2" height="150px" /><br>

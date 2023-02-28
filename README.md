@@ -26,3 +26,7 @@
         </tr>
     </tbody>
 </table>
+
+## About
+
+What is the N queens problem? It is a question of placing n queens on a chessboard (of size n x n, n>2) without them threatening each other. Two queens must not be on the same line, on the same column or on the same diagonal.
